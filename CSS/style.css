@@ -1,23 +1,23 @@
   html {
-    background-color: #00539F;
+    background-color: hsl(209, 58%, 71%);
   }
   body {
     width: 800px;
     margin: 0 auto;
-    background-color: #2ad4a9;
+    background-color: hsl(165, 65%, 83%);
     padding: 0px 20px 20px 20px;
-    border: 2px solid black;
+    border: 2px solid rgb(3, 3, 3);
   }
   h1 {
     margin: 0;
     padding: 20px 0;
-    color: #00539F;
+    color: #419df3;
     text-shadow: 1px 1px 1px black;
   }
   h2 {
     margin: 0;
     padding: 20px 0;
-    color: #00539F;
+    color: #419df3;
     text-shadow: 0.5px 0.5px 0.5px black;
   }
   h3 {
@@ -29,7 +29,7 @@
   h4 {
     margin: 0;
     padding: 20px 0;
-    color: #00539F;
+    color: #419df3;
     text-shadow: 0.1px 0.1px 0.1px black;
   }
   img {
@@ -37,7 +37,7 @@
     margin: 0 auto;
   }
   
-  a:link {color: rgb(25, 94, 223); text-decoration:none;} 
+  a:link {color: rgb(55, 152, 216); text-decoration:none;} 
   a:active {color: red; } 
-  a:visited {color:rgb(78, 14, 199);text-decoration:none;} 
+  a:visited {color:rgb(112, 120, 226);text-decoration:none;} 
   a:hover {color: red; text-decoration:underline;} 
